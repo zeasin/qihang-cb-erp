@@ -9,7 +9,7 @@
 
 本系统后端采用SpringCloud微服务架构，前端采用Vue2+Element。
 
-
+![](docs/preview.png)
 
 ## 二、项目说明
 **本系统后端采用SpringCloud微服务架构，前端采用vue+element**
